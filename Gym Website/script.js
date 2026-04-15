@@ -4,6 +4,7 @@ function toggleNavbar(collapseID) {
     }
 
 
+    
  AOS.init({
       delay: 200,
       duration: 1200,
